@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/fitnes-app/",
+    "build": "vite build --base=/js_96_jackavryashnik/",
     "preview": "vite preview"
   },
   "devDependencies": {
